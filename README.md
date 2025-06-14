@@ -1,6 +1,6 @@
 # 🚀 audion-receiver-3
 
-New audion receiver modell, with tuned amplifier. This is the third model of this old radio version, it's fun and works very well. **Try it yourself.**
+New audion receiver modell, with tuned amplifier. This is the third model of this old radio version, ❤️ it's fun and works very well. ❤️ **Try it yourself.**
 
 **I will make a video about it soon and post the link here.**
 
@@ -54,4 +54,20 @@ Second bandwidth filter in collector section.
   - tunnable f0 of bandwidth
   - tunnable gain of amplifier
 
+▶️ **Audion with filter** stage:
 
+  - signal demodulation
+  - filter for smoothing the carrier signal
+
+▶️ **Output** stage:
+
+  - separation stage between headphones and audion
+  - make impedance transformation for headphone
+
+## Contact
+
+Varga Laszlo - https://vargalaszlo.com - mail@vargalaszlo.com
+
+Project Link: https://github.com/vargalaszlo87/audion-receiver-3
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://vargalaszlo.com)
