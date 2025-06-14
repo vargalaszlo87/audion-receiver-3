@@ -40,18 +40,22 @@ Second bandwidth filter in collector section.
   - separation stage between headphones and audion
   - make impedance transformation for headphone
 
+## ⭐ Simulation (AM demodulation)
+
+![image](https://github.com/user-attachments/assets/aa967fd8-35de-46b3-9d78-d34358c7a7bd)
+
 ## ⭐ Simulation (frequency transfer)
 
-Parameters of simulaton:
+**Parameters of simulaton:**
 
 Parallel LC:
-- L = 330uH
-- C = 400pF
+- **L** = 330uH
+- **C** = 400pF
 
 Input voltage generator:
-- Vp = 1V
-- R_gen = 200ohm
-- 
+- **Vp** = 1V
+- **R_gen** = 200ohm
+
 **Channel selector:**
 
 This parallel LC circuit performs very weak filtering. The "Channel selector" name comes from super-heterodyne technology where the IF frequency and the frequency of the actual band is far apart. In that case this function is more effective as in a non frequency-transformer circuit.
