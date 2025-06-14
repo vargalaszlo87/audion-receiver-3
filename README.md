@@ -20,10 +20,17 @@ Luckily, you can find such a model, where the two parts have equal capacity. (In
 
 ## Tow parts of capacitor
 
+Where should the two parts of the capacitance be connected?
+
 **First part** is the channel selector. (red circle) 
 
 ![image](https://github.com/user-attachments/assets/237be0cf-63e5-4bec-8b60-c240e6e7c56b)
 
 **Second part** is the resonant LC circuit for RF preamplifier in collector section.
 
-The selectivity of this radio is increased by the LC circuit.
+The selectivity of this radio is increased by the LC circuit. (orange circuit)
+
+![image](https://github.com/user-attachments/assets/cffae2a8-1ed9-4a8d-ade1-bf8c14fc95b3)
+
+
+
