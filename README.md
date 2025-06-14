@@ -36,12 +36,22 @@ The selectivity of this radio is increased by the LC circuit. (orange circuit)
 
 ## 📐 How it works?
 
-▶️ **Channel selector:** this section is a tuned bandwidth filter. 
-  
-  What does it mean that selectivity is weak if there is only one resonant circuit in the radio? 😡 The strongest radio station can be heard in the full band. 
+▶️ **Channel selector:** 
 
-▶️ **Input stage:**
+This section is a tuned bandwidth filter. 
 
-  - Receives the antenna signal and make impedance transformation.
+😡 What does it mean that selectivity is weak if there is only one resonant circuit in the radio? 😡 The strongest radio station can be heard in the full band. 
+
+▶️ **Input** stage:
+
+  - receives the antenna signal
+  - make impedance transformation
+
+▶️ **Tuned RF preamplifier** stage:
+
+Second bandwidth filter in collector section.
+
+  - tunnable f0 of bandwidth
+  - tunnable gain of amplifier
 
 
